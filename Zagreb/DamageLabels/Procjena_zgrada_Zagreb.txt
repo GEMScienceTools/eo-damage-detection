@@ -1,0 +1,17 @@
+U1 - Usable without restriction
+The building can be used. The building has no damage or has little damage that does not pose a danger to the load-bearing capacity and usability of the building.
+
+U2 - Usable with recommendation
+The building may be used in accordance with the intended purpose, except in certain parts where there is an immediate danger to a part of the building. The construction expert gives recommendations for removing hazards (for example chimneys) and recommendations to users for temporarily restricting the stay in certain parts of the building. Once the danger has been removed, the building can be used without restrictions.
+
+PN1 - Temporarily unusable - detailed inspection required
+The building has moderate damage with no danger of collapsing. The load-bearing capacity of the building is partially impaired. It is not recommended to stay in the building, ie citizens stay in such a building at their own risk. A shorter stay in the building is possible, with the advice of a construction expert regarding the necessary measures and restriction of stay (depending on the danger). A construction expert makes recommendations to eliminate the hazards.
+
+PN2 - Temporarily unusable - emergency measures required
+The building has moderate damage without the danger of collapsing, but it cannot be used due to the potential danger of collapsing certain elements from the building itself. The construction expert identifies emergency intervention measures and gives instructions to users. Until the measures are implemented, the building or part of it is not usable (for example, the roof). Temporary unusability can only apply to some parts (units) of the building.
+
+N1 - Not applicable - due to external influence
+The building is dangerous due to the possibility of collapsing massive parts of the adjacent building (most often gable walls and massive chimneys). Due to such danger, it is recommended not to stay in such buildings at all (especially given the large number of earthquake recurrences).
+
+N2 - Not applicable - due to damage
+The building has major damage to the load-bearing system, there are collapses of load-bearing and non-load-bearing elements. It is recommended not to enter and stay in the building. This does not necessarily mean that the building has to be demolished - such decisions are made in the following stages.
