@@ -1,0 +1,8 @@
+Damage Proxy Map (DPM) covering an area of 70-by-180 km, including Kathmandu and LangTang Region, Nepal. Red pixels represent areas of potential damage due to the M7.8 April 25, 2015 Nepal Earthquake, as well as ground surface change during the time period Feb 21, 2015 -- May 2, 2015. The grayscale variation from black to white indicates increasingly more significant ground surface change. DPM was created by ARIA team at JPL/Caltech, derived from ALOS-2 radar data made freely available by Japanese Space Agency (JAXA) through Committee on Earth Observation Satellites (CEOS) in support of the response effort. Preliminary validation was done by comparing to damage assessment from optical satellite imagery by NGA (May 4 damage assessment product). This DPM should be used as guidance to identify damaged areas, and may be less reliable over vegetated areas.
+
+Original data ALOS-2 PALSAR-2 Product - ©JAXA (2015). All Rights Reserved
+
+Prepared by Sang-Ho Yun
+2015-05-06
+
+For more information about ARIA, visit: http://aria.jpl.nasa.gov
